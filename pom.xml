@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.Naaatan</groupId>
 	<artifactId>Tachometer</artifactId>
-	<version>1.1.1</version>
+	<version>1.1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
     <repositories>
@@ -13,8 +13,8 @@
       </repository>
     </repositories>
     <scm>
-      <url>https://github.com/Naaatan/Tachometer</url>
-      <connection>scm:git:git@github.com:Naaatan/Tachometer.git</connection>
+      <url>https://github.com/apr-kwatanabe/Tachometer</url>
+      <connection>scm:git:git@github.com:apr-kwatanabe/Tachometer.git</connection>
       <tag>v1.1.1</tag>
     </scm>
 
